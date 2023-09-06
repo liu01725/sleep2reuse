@@ -1,0 +1,230 @@
+
+[
+    {
+        "imageURL":"assets/images/coffeeMaker.jpg",
+        "price":"8",
+        "title":"coffeeMaker",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user1",
+        "postedDate":"2023-07-01"
+
+    },
+    {
+        "imageURL":"assets/images/coffeeTable.jpg",
+        "price":"30",
+        "title":"coffeeTable",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user1",
+        "postedDate":"2023-07-01"
+
+    },
+    {
+        "imageURL":"assets/images/livingroom.jpg",
+        "price":"100",
+        "title":"sofa",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user1",
+        "postedDate":"2023-07-01"
+
+    },
+    {
+        "imageURL":"assets/images/livingroom2.jpg",
+        "price":"150",
+        "title":"sofa",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user2",
+        "postedDate":"2023-07-01"
+
+    },
+    {
+        "imageURL":"assets/images/livingroom2.jpg",
+        "price":"150",
+        "title":"sofa",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user2",
+        "postedDate":"2023-07-01"
+
+    },
+    {
+        "imageURL":"assets/images/livingroom3.jpg",
+        "price":"200",
+        "title":"bed",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user3",
+        "postedDate":"2023-07-01"
+
+    },
+    {
+        "imageURL":"assets/images/outdoor.jpg",
+        "price":"80",
+        "title":"outdoor",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user2",
+        "postedDate":"2023-06-29"
+
+    },
+    {
+        "imageURL":"assets/images/pic.jpg",
+        "price":"5",
+        "title":"home decor",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user3",
+        "postedDate":"2023-06-01"
+
+    },
+    {
+        "imageURL":"assets/images/livingroom2.jpg",
+        "price":"150",
+        "title":"sofa",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user2",
+        "postedDate":"2023-06-15"
+
+    },
+    {
+        "imageURL":"assets/images/livingroom2.jpg",
+        "price":"150",
+        "title":"sofa",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user2",
+        "postedDate":"2023-07-01"
+
+    },
+    {
+        "imageURL":"assets/images/livingroom3.jpg",
+        "price":"200",
+        "title":"bed",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user3",
+        "postedDate":"2023-07-01"
+
+    },
+    {
+        "imageURL":"assets/images/outdoor.jpg",
+        "price":"80",
+        "title":"outdoor",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user2",
+        "postedDate":"2023-06-29"
+
+    },
+    {
+        "imageURL":"assets/images/pic.jpg",
+        "price":"5",
+        "title":"home decor",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user3",
+        "postedDate":"2023-06-01"
+
+    },
+    {
+        "imageURL":"assets/images/pic.jpg",
+        "price":"5",
+        "title":"home decor",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user3",
+        "postedDate":"2023-06-01"
+
+    },
+    {
+        "imageURL":"assets/images/livingroom2.jpg",
+        "price":"150",
+        "title":"sofa",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user2",
+        "postedDate":"2023-06-15"
+
+    },
+    {
+        "imageURL":"assets/images/livingroom2.jpg",
+        "price":"150",
+        "title":"sofa",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user2",
+        "postedDate":"2023-07-01"
+
+    },
+    {
+        "imageURL":"assets/images/livingroom3.jpg",
+        "price":"200",
+        "title":"bed",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user3",
+        "postedDate":"2023-07-01"
+
+    },
+    {
+        "imageURL":"assets/images/outdoor.jpg",
+        "price":"80",
+        "title":"outdoor",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user2",
+        "postedDate":"2023-06-29"
+
+    },
+    {
+        "imageURL":"assets/images/pic.jpg",
+        "price":"5",
+        "title":"home decor",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user3",
+        "postedDate":"2023-06-01"
+
+    },
+    {
+        "imageURL":"assets/images/pic.jpg",
+        "price":"5",
+        "title":"home decor",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user3",
+        "postedDate":"2023-06-01"
+
+    },
+    {
+        "imageURL":"assets/images/livingroom2.jpg",
+        "price":"150",
+        "title":"sofa",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user2",
+        "postedDate":"2023-06-15"
+
+    },
+    {
+        "imageURL":"assets/images/livingroom2.jpg",
+        "price":"150",
+        "title":"sofa",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user2",
+        "postedDate":"2023-07-01"
+
+    },
+    {
+        "imageURL":"assets/images/livingroom3.jpg",
+        "price":"200",
+        "title":"bed",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user3",
+        "postedDate":"2023-07-01"
+
+    },
+    {
+        "imageURL":"assets/images/outdoor.jpg",
+        "price":"80",
+        "title":"outdoor",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user2",
+        "postedDate":"2023-06-29"
+
+    },
+    {
+        "imageURL":"assets/images/pic.jpg",
+        "price":"5",
+        "title":"home decor",
+        "description": "Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "userName": "user3",
+        "postedDate":"2023-06-01"
+
+    }
+
+
+]
