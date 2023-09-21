@@ -1,6 +1,6 @@
 {
-    "name": "sleep2reuse_demo",
-    "short_name": "sleep2reuse_demo",
+    "name": "gopher_hole_demo",
+    "short_name": "gopher_hole_demo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
